@@ -1,0 +1,75 @@
+body{
+    background: linear-gradient(to bottom right, blue, purple, yellow);
+}
+.task_1{
+    text-align: center;
+}
+.task{
+    font-size: 5vh;
+    margin-top: 5vh;
+    color: orange;
+    text-shadow: 1px 1px 5px black;
+    filter: contrast(200%);
+}
+.img{
+    height: 300px;
+    width: 200px;
+    margin: 15px 20px;
+    cursor: pointer;
+    box-shadow: 0 0 20px 10px lime;
+}
+a{
+    text-decoration: none;
+    color: lime;
+    font-size: 2.5vh;
+    line-height: 4vh;
+    text-shadow: 1px 1px 5px black;
+}
+a:hover{
+    color: red;
+    text-decoration: underline;
+}
+.input1{
+    margin-top: 2vh;
+    height: 3vh;
+    width: 12vw;
+    font-size: 2vh;
+    padding-left: 10px;
+}
+.main_demo{
+    height: 3vh;
+    font-size: 2.5vh;
+    font-weight: 600;
+    color: #6893ff;
+    filter: contrast(300%);
+    text-shadow: 1px 1px 5px black;
+}
+.par{
+    cursor: pointer;
+    font-size: 2.5vh;
+    font-weight: 600;
+    color: #6893ff;
+    filter: contrast(300%);
+    text-shadow: 1px 1px 5px black;
+}
+.yes {
+    border: 4px solid #00aa00;
+    outline: 1px solid black;
+}
+.no {
+    border: 4px solid red;
+    outline: 1px solid black;
+}
+.divs{
+    height: 10vh;
+    width: 25vw;
+    border: 1px solid black;
+    margin: 10px auto;
+}
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: #00aa00;
+}
